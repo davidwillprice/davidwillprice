@@ -1,5 +1,3 @@
-# David Price 👋
-
 **I am seeking a new full-time developer role as the Bristol-based E-commerce agency I have been working for entered liquidation last month. Please get in touch!**
 
 ## 📖 Story
@@ -41,4 +39,4 @@ I've become development-focused over the last 11 years; I have pushed myself to 
 
 - 👔 **LinkedIn**: [@davidwillprice](https://www.linkedin.com/in/davidwillprice/)
 - ✉️ **Email**: [davidwillprice@gmail.com](mailto:davidwillprice@gmail.com)
-- 🌐 **Website**: [https://www.davidwillprice.com/](https://www.davidwillprice.com/)
+- 🌐 **Website**: [www.davidwillprice.com](https://www.davidwillprice.com/)
