@@ -1,5 +1,3 @@
-**I am seeking a new full-time developer role as the Bristol-based E-commerce agency I have been working for entered liquidation last month. Please get in touch!**
-
 ## 📖 Story
 
 Having graduated with a Fine Art degree in 2014, I taught myself HTML and CSS to earn my first Web Developer & Designer position in 2015.
